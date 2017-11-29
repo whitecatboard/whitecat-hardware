@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ESP32N1DEVKIT)(type KiCad)(uri "$(KIPRJMOD)/ESP32N1DEVKIT.pretty")(options "")(descr ""))
+)
